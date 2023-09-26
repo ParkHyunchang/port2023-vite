@@ -87,7 +87,7 @@
     filter: saturate(100%)
 }
 .port__item .title {
-    font-size: 1.5rem;
+    font-size: 3rem;
     text-align: center;
     padding: 0.8rem 0;
     font-weight: 700;
@@ -96,7 +96,10 @@
     margin-bottom: 1rem;
 }
 .port__item .desc {
-    font-size: 1rem;
+    font-size: 1.5rem;
+    padding: 1.5rem 0;
+    text-align: center;
+    font-weight: 500;
 }
 .port__item .site {
     border: 1px solid var(--black100);
