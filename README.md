@@ -37,7 +37,7 @@ export default {
     outDir: "../public",
     },
 };
-
+```
 
 ## git에 올리는 방법
 
